@@ -1,0 +1,7 @@
+# https://help.github.com/en/articles/about-code-owners
+
+# In a non-prototype implementation it would be the ops team added
+# as the code owners for everything in this repo.
+# This allows us to authorize who can approve PRs for the cluster config
+# since code owner approval is required. 
+*     @andrewhertog @erikkrieg @sarmad-abualkaz @kuuji @awdelyea @hawkesnc @jkatic85 @radu-trambitas-prodigy @lucass4 @nachin @proCrichard @ashajoy @KChiuwork
